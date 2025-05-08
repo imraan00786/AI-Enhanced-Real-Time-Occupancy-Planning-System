@@ -1,18 +1,6 @@
 ## Overview
 This system is designed to optimize workspace allocation in corporate real estate environments by leveraging real-time sensor data from VergeSense and AI-powered optimization algorithms. The system provides dynamic desk assignment and natural language interaction capabilities while adhering to organizational policies and compliance rules.
 
-## ⚙️ Core Features
-
-| Feature | Description |
-|--------|-------------|
-| 🔄 Real-time Sensor Integration | Fetches near real-time occupancy data from VergeSense API |
-| 👤 Employee Preference Matching | Considers preferences like desk type, proximity, accessibility |
-| 🧠 AI NLP Interface | Understands natural language queries (via OpenAI GPT or Claude) |
-| ⚖️ Constraint-Based Optimization | Allocates desks using custom rule engines (policies & preferences) |
-| 🌐 RESTful APIs | Interface for planners, employees, and external tools |
-| 🧩 Desk-to-Sensor Mapping | Maintains critical mappings for desk-level tracking from area-level data |
-| 🔐 Secure & Scalable | Designed for multi-location deployments with personal data protection |
-
 
 ## System Architecture
 
